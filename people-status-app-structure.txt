@@ -1,0 +1,12 @@
+people-status-app/
+│
+├─ public/                 # Front‑end files
+│   ├─ index.html
+│   ├─ styles.css
+│   └─ app.js
+│
+└─ api/                    # PHP endpoints
+    ├─ db.php
+    ├─ insert.php
+    ├─ list.php
+    └─ toggle.php
