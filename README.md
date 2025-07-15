@@ -2,7 +2,7 @@
 A minimal PHP + MySQL + JS demo that lets you:  
 1. Add a person (name + age)  
 2. List everyone in a table  
-3. Toggle each person’s `status` between **0 / 1** instantly via AJAX
+3. Toggle each person’s `status` between **0 / 1** instantly 
 
 Built for XAMPP on Windows but runs on any LAMP/MAMP/WAMP stack.
 
