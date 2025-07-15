@@ -15,16 +15,4 @@ Built for XAMPP on Windows but runs on any LAMP/MAMP/WAMP stack.
 ---
 
 ## 📂 Project structure
-
-people-status-app/
-│
-├─ public/ # Front‑end
-│ ├─ index.html
-│ ├─ styles.css
-│ └─ app.js
-│
-└─ api/ # Back‑end
-├─ db.php
-├─ insert.php # POST name, age
-├─ list.php # GET -> JSON rows
-└─ toggle.php # POST id -> flips status
+look into file  People-Status-app.txt
