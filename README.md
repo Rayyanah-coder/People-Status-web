@@ -10,7 +10,7 @@ Built for XAMPP on Windows but runs on any LAMP/MAMP/WAMP stack.
 
 ## ✨ Demo
 
-<img src="https://raw.githubusercontent.com/your‑user/people-status-app/assets/demo.gif" width="720" alt="screenshot" />
+<img width="1623" height="725" alt="Image" src="https://github.com/user-attachments/assets/ea368e9c-c748-462f-ae7a-91ba08e1227d" />
 
 ---
 
