@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Smart People App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>🧠 Smart People List</h1>
+
+    <form id="personForm" class="form-card">
+      <input type="text" id="name" placeholder="Enter name" required>
+      <input type="number" id="age" min="1" placeholder="Enter age" required>
+      <button type="submit">➕ Add Person</button>
+    </form>
+
+    <table id="peopleTable">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Name</th>
+          <th>Age</th>
+          <th>Status</th>
+          <th>Action</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
